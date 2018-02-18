@@ -1,0 +1,22 @@
+Command !giveaway
+
+Checks for any warnings issued against ${member}
+Also check for any roles that may deny their entry from the giveaway 
+If true^ will display 
+
+“Sorry ${member},
+But it looks like you’re not allowed to join the Giveaway at this point in time due to:  
+ 
+-	You have been banned from Giveaways
+-	You have been muted by the bot or an admin
+-	Have a warning issued against you
+
+If you believe this is an error please type **!requesthelp** and an admin shall assist you further  “
+
+Check ${member} for Kick Permissions 
+If True will display
+
+“Sorry ${member}, 
+But to make it fair I can’t allow you to join the giveaway.
+
+Sorry Bro”
